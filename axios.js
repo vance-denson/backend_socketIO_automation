@@ -1,1 +1,1 @@
-console.log('axios.js JS Connected');
+console.log('axios.js Connected');

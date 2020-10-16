@@ -1,1 +1,1 @@
-console.log('fetch.js JS Connected');
+console.log('fetch.js Connected');

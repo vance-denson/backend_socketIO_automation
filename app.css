@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+button,
+input {
+	/*margin: 5px;*/
+	display: inherit;
+	background-color: white;
+	border-radius: 5%;
+	margin: 10% 0;
+	border: 1px solid black;
+	padding: 2%;
+}
+
+form {
+	height: 50vh;
+	width: 20vw;
+	margin: 5% 0 0 5%;
+}
+
+body {
+	background: rebeccapurple;
+}

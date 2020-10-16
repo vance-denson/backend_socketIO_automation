@@ -1,1 +1,1 @@
-console.log('index.js JS Connected');
+console.log('index.js Connected');
